@@ -34,7 +34,7 @@ Initially, my laptop did not detect the ESP8266. After resolving that, while upl
 RemoteXY.h: No such file or directory
 
 
-This was confusing because I had already installed the required libraries. I tried reinstalling, but it still didn’t work. Avinash Anna helped by trying from his laptop, but even then it took time and didn’t fully resolve. I was told that the issue was likely with the library setup, and that my code and wiring were correct.  
+This was confusing because I had already installed the required libraries. I tried reinstalling, but it still didn’t work. Avinash Anna helped by trying from his laptop, but even then it took time and didn’t fully resolve. I was told that the issue was likely with the library, and that my code and wiring were correct.  
 
 ---
 
