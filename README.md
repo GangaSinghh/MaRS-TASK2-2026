@@ -1,4 +1,6 @@
-# Use Radio Communication to Run a Motor Remotely  
+# Use Radio Communication to Run a Motor Remotely 
+##Ganga Singh
+##EC25B1108
 ## MaRS TASK2 2026  
 
 ---
