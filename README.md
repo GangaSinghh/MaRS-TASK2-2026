@@ -17,7 +17,7 @@ This is where I spent most of my time because RemoteXY was completely new to me.
 
 ## Writing Code for ESP8266  
 
-This part was relatively easy since I already knew Arduino (C++). The logic was almost the same, just the pin names were different. Before writing and uploading the code, I installed all the required libraries and board packages, including the ESP8266 board definitions and the RemoteXY library, along with any other necessary dependencies. I then implemented the logic for motor control based on RemoteXY inputs and moved on to hardware.  
+This part was relatively easy since I already knew Arduino (C++). The logic was almost the same, just the pin names were different. Before writing and uploading the code, I installed all the required libraries and board packages, including the ESP8266 board definitions and the RemoteXY library, along with any other necessary downloads. I then implemented the logic for motor control based on RemoteXY inputs and moved on to hardware.  
 
 ---
 
