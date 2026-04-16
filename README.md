@@ -11,13 +11,13 @@ I was given a NodeMCU ESP8266, a DC motor, and an L298N motor driver. I went thr
 
 ## Understanding RemoteXY  
 
-This is where I spent most of my time because RemoteXY was completely new to me. I had worked with Arduino before so undertanding ESP8266 was easy, but something like RemoteXY—creating a GUI, generating source code, and understanding how it all works together—was new. I explored the RemoteXY website, created a GUI, and used two sliders—one for turning the motor ON/OFF and another for changing its direction. I then took the generated source code and moved to Arduino IDE to integrate it with my ESP8266 code.  
+This is where I spent most of my time because RemoteXY was completely new to me. I had worked with Arduino and similar microcontrollers before, but something like RemoteXY—creating a GUI, generating source code, and understanding how it all works together—was new. I explored the RemoteXY website, created a GUI, and used two sliders—one for turning the motor ON/OFF and another for changing its direction. I then took the generated source code and moved to Arduino IDE to integrate it with my ESP8266 code.  
 
 ---
 
 ## Writing Code for ESP8266  
 
-This part was relatively easy since I already knew Arduino (C++). The logic was almost the same, just the pin names were different. I implemented the logic for motor control based on RemoteXY inputs and moved on to hardware.  
+This part was relatively easy since I already knew Arduino (C++). The logic was almost the same, just the pin names were different. Before writing and uploading the code, I installed all the required libraries and board packages, including the ESP8266 board definitions and the RemoteXY library, along with any other necessary dependencies. I then implemented the logic for motor control based on RemoteXY inputs and moved on to hardware.  
 
 ---
 
